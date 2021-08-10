@@ -1,0 +1,30 @@
+.clients p {
+    line-height: 1.6em !important;
+}
+
+
+.sec_area {
+    
+    /* min-height: 90vh; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #282c34;
+    padding: 0px 30px 30px 30px;
+    
+}
+
+.sec_area .container {
+    max-width: 100%;
+    padding: 0px;
+}
+
+.sec_content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+}

@@ -1,0 +1,232 @@
+{
+	"locale" 	: "en-mx",
+	"buttons" 	: {
+		"botton1" : "Iniciar Sesión",
+		"txt1" : "Registrate"
+	},
+	"about_page" :{
+		"botton2" : "Hola",
+		"txt2" : "Soy Juan"
+	},
+	"about_home" :{
+		"about_home_title" : "Somos líderes tecnológicos",
+		"about_home_d" : "Con más de 20 años de experiencia en el desarrollo de aplicaciones de misión crítica para empresas de telecomunicaciones y servicios públicos en América Latina, DreamCode brinda servicios de desarrollo de software incomparables personalizados para las necesidades exactas de su negocio.",
+		"read_more" : "Leer Más"
+
+	},
+	"clients_home" :{
+		"clients_home_d" : "Entregamos productos y servicios adaptados a nuestros clientes. Durante 10 años hemos buscado simplificar los procesos operativos y la toma de decisiones de nuestros clientes de una manera más ágil.",
+		"read_more" : "Leer Más",
+		"clients_home_title" : "Nuestros Clientes"
+	},
+	"process_home" :{
+		"process_d" : "Scrum es una metodología de desarrollo ágil utilizada en el desarrollo de Software basada en procesos iterativos e incrementales. Scrum es un marco ágil adaptable, rápido, flexible y eficaz que está diseñado para entregar valor al cliente durante todo el desarrollo del proyecto.",
+		"read_more" : "Leer Más",
+		"process2_d" : "PRISMA es un conjunto mínimo de elementos basados en evidencia para informar en revisiones sistemáticas y metanálisis. PRISMA se centra en el informe de revisiones que evalúan ensayos aleatorizados, pero también se puede utilizar como base para informar revisiones sistemáticas de otros tipos de investigación, en particular evaluaciones de intervenciones."
+	},
+	"banner_home" :{
+		"txt_banner" : "Servicios de desarrollo de software especializados para incorporar tecnología y prácticas innovadoras para transformar su negocio."
+	},
+	"ClientsBanner" :{
+		"title2" : "Ayudamos a nuestros clientes a alcanzar sus objetivos comerciales",
+		"txt_d2" : "Tenemos el privilegio de trabajar con algunas de las empresas más conocidas del mundo."
+	},
+	"sec_banner" :{
+		"titleAbout" : "Reunimos a personas increíbles para que sucedan cosas increíbles.",
+		"txt_dAbout" : "Nuestro equipo de desarrollo está formado por expertos en tecnologías de software como Java, Spring Framework, JavaScript, Angular, Oracle, MySQL y AWS entre otros. Después de un análisis completo, proporcionamos servicios de arquitectura y desarrollo de software para apoyar la visión exacta de nuestros clientes.",
+		"titleClients" : "Ayudamos a nuestros clientes a alcanzar sus objetivos comerciales",
+		"txt_dClients" : "Tenemos el privilegio de trabajar con algunas de las empresas más conocidas del mundo.",
+		"titleJobs" : "Únete a nosotros. Dar forma al futuro del Desarrollo de Software",
+		"txt_dJobs" : "Ven a Dreamcode, donde miles de imaginaciones individuales se unen para allanar el camino hacia la innovación. Aquí, harás más que unirte a algo: agregarás algo."
+	},	
+	"story_about" :{
+		"title_s" : "Nuestra Historia",
+		"txt_p1" : "Fundada en 2013, DreamCode es una empresa de desarrollo de software profesional dedicada a modernizar los objetivos comerciales con tecnología de vanguardia.",
+		"txt_p2" : "Desde sus inicios, DreamCode ha crecido de 2 empleados a más de 30, con oficinas en San Francisco, CA y Cali, Colombia.",
+		"txt_p3" : "DreamCode se creó pensando en el consumidor y ha permitido a las empresas comerciales la transformación de la infraestructura y el desarrollo de software basado en la nube. A lo largo de los años, la dedicación de DreamCode por crear soluciones innovadoras y asociaciones estratégicas ha apoyado a varias empresas en las Américas."
+	},
+	"values_about" :{
+		"title_v" : "Nuestros Valores",
+		"value1" : "Innovación",
+		"value2" : "Atraer y mantener",
+		"value3" : "Compromiso"
+	},
+	"expertise_about" :{
+		"title_e": "Nuestra experiencia",
+		"exp_1": "Aplicación Nativa de la Nube",
+		"exp_2": "Desarrollo Web Front-end ",
+		"exp_3": "Desarrollo Full-Stack",
+		"exp_4": "Arquitectura de Software",
+		"exp_5": "Diseño de Microservicios",
+		"exp_6": "Diseño basado en API",
+		"exp_7": "Software Ágil",
+		"exp_8": "DevOps"
+	},
+	"team_about" :{
+		"t_team" : "Conoce a nuestro equipo",
+		"d_team" : "¡Todos aquí son innovadores o futuros innovadores. Así es como creamos el tipo de productos y experiencias que pocos imaginan!",
+		"p_name1" : "Director general, Socio",
+		"p_name2" : "Gerente de desarrollo, Socio",
+		"p_name3" : "Director ejecutivo, Socio",
+		"p_name4" : "Software Development Leader",
+		"d_name1" : "Con más de 24 años de experiencia, el conocimiento y la experiencia de Horacio en el desarrollo de software es inigualable. Horacio se desempeñó como arquitecto técnico principal de una de las empresas de software más grandes del sistema de facturación en América Latina. Participó en grandes proyectos para empresas de telecomunicaciones y servicios públicos, lo que le otorga una sólida experiencia en Oracle RDBMS y lo convierte en un miembro valioso del equipo",
+		"d_name2" : "Con más de 22 años de experiencia en el desarrollo de aplicaciones de misión crítica para empresas de telecomunicaciones. Ha estado involucrado en la especificación, diseño, arquitectura, desarrollo y ejecución de varios proyectos de software para empresas de renombre en América Latina. actualmente lidera el proceso de arquitectura, diseño y desarrollo de software.",
+		"d_name3" : "Ejecutivo sénior, con la capacidad de desarrollar una visión estratégica y ejecutar a nivel de detalle, involucrado en el desarrollo comercial, la tecnología y la venta y entrega de soluciones de misión crítica durante los últimos 25 años. Disfruto reuniendo, liderando y asesorando a equipos ganadores, desarrollar relaciones profundas con socios, proveedores y clientes y liderar el cambio y la transformación para lograr la excelencia operativa",
+		"d_name4" : "Ingeniero de Software con más de 9 años de experiencia en el ciclo de vida del desarrollo de software. Se ha enfocado en la construcción de aplicaciones comerciales y la especificación, diseño, arquitectura, desarrollo y ejecución de proyectos de software para empresas de telecomunicaciones y cable en América Latina. En DreamCode, lidera el equipo de desarrollo utilizando Scrum como metodología de desarrollo"
+	},
+	"contact" :{
+		"title" : "¿Tienes un proyecto en mente?",
+		"titleP" : "Envíenos un mensaje para comprender mejor cómo podemos ayudarlo a lograr sus objetivos.",
+		"name" : "Tu Nombre",
+		"email" : "Tu Email",
+		"subject" : "Asunto",
+		"message" : "Ingrese su mensaje...",
+		"btn" : "Enviar Mensaje"
+	},
+	"casos_exito" :{
+		"casos_title" : "Casos de éxito",
+		"casos_title_d" : "Inspírate con historias innovadoras que te ayudarán a cumplir con tus objetivos de negocio."
+
+	},
+	"jobs_items" :{
+		"title" : "Create the future you want",
+		"titleD" : "Get ind by innovative stories to help you meet your business goals."
+	},
+	"services_home" :{
+		"serv_title" : "Nuestros Servicios",
+		"serv_title2" : "Brindamos soluciones innovadoras y alianzas estratégicas que apoyan a varias empresas en América latina.",
+		"read_more" : "Leer Más",
+		"serv1_t" : "Consultoría tecnológica",
+		"serv1_d" : "Nos asociaremos con usted para ofrecer soluciones innovadoras que revitalizarán su negocio mediante la implementación de una arquitectura moderna y la mejor tecnología de su clase. Nuestros servicios abarcan desde la evaluación de aplicaciones y la definición de la arquitectura de software hasta la transformación ágil y el diseño y desarrollo de aplicaciones web frontend / backend.",
+		"serv2_t" : "Servicios de desarrollo de software",
+		"serv2_d" : "Nuestro desarrollo de software ágil ofrece un proceso simplificado que moderniza las operaciones comerciales para maximizar los objetivos comerciales. Ofrecemos una técnica consistente y de ritmo rápido que incorpora administración de configuración centralizada, mitigación de riesgos de software, calidad de código superior, automatización de pruebas y herramientas de virtualización de vanguardia.",
+		"serv3_t" : "Servicios de base de datos",
+		"serv3_d" : "Nuestros profesionales de bases de datos proporcionarán los recursos estratégicos y tácticos que necesita para complementar a su equipo con un menú completo de servicios de soporte. Ofrecemos una gama de servicios de bases de datos que incluyen diseño de arquitectura, migración, respaldo / recuperación, monitoreo y ajuste de rendimiento en Oracle, MySQL y Amazon Relational Database Service (RDS).",
+		"serv4_t" : "Servicios de aplicaciones web y móviles",
+		"serv4_d" : "Como desarrolladores web y móviles líderes, nuestros expertos crean aplicaciones superiores que transforman digitalmente cualquier plataforma importante. Nuestros servicios web y móviles incluyen Conceptualización de software, Diseño de arquitectura, Diseño de UI / UX, Migración de aplicaciones y Porting, así como optimización y soporte."
+	},
+	"ClientsList" :{
+		"dClient1" : "Apple es una empresa multigeneracional con empleados de 18 a 87 años. Apoyamos el desarrollo de todos nuestros empleados a lo largo de su trayectoria con Apple, y estamos orgullosos de que tanta gente elija permanecer en Apple durante mucho tiempo.",
+		"dClient2" : "Apple es una empresa multigeneracional con empleados de 18 a 87 años. Apoyamos el desarrollo de todos nuestros empleados a lo largo de su trayectoria con Apple, y estamos orgullosos de que tanta gente elija permanecer en Apple durante mucho tiempo.",
+		"dClient3" : "Apple es una empresa multigeneracional con empleados de 18 a 87 años. Apoyamos el desarrollo de todos nuestros empleados a lo largo de su trayectoria con Apple, y estamos orgullosos de que tanta gente elija permanecer en Apple durante mucho tiempo.",
+		"dClient4" : "Apple es una empresa multigeneracional con empleados de 18 a 87 años. Apoyamos el desarrollo de todos nuestros empleados a lo largo de su trayectoria con Apple, y estamos orgullosos de que tanta gente elija permanecer en Apple durante mucho tiempo.",
+		"dClient5" : "Apple es una empresa multigeneracional con empleados de 18 a 87 años. Apoyamos el desarrollo de todos nuestros empleados a lo largo de su trayectoria con Apple, y estamos orgullosos de que tanta gente elija permanecer en Apple durante mucho tiempo.",
+		"dClient6" : "Apple es una empresa multigeneracional con empleados de 18 a 87 años. Apoyamos el desarrollo de todos nuestros empleados a lo largo de su trayectoria con Apple, y estamos orgullosos de que tanta gente elija permanecer en Apple durante mucho tiempo.",
+		"dClient7" : "Apple es una empresa multigeneracional con empleados de 18 a 87 años. Apoyamos el desarrollo de todos nuestros empleados a lo largo de su trayectoria con Apple, y estamos orgullosos de que tanta gente elija permanecer en Apple durante mucho tiempo.",
+		"item1" : "Servicio Prestado 1",
+		"item2" : "Servicio Prestado 2",
+		"item3" : "Servicio Prestado 3"
+	},
+
+	"ServiceBannerInt" :{
+		"TitleData" : "Servicios de Base  ",
+		"TitleNData" : "de Datos",
+		"TitlePData" : "Ofrecemos soluciones innovadoras que revitalizarán su negocio de forma moderna y con la mejor tecnología.",
+		"TitleSoftwareDev" : "Servicio de Desarrollo de ",
+		"TitleNSoftwareDev" : "Software",
+		"TitlePSoftwareDev" : "Nuestro desarrollo de software ágil para maximizar los objetivos comerciales.",
+		"TitleTechnoConsulting" : " Servicio de Consultoría  ",
+		"TitleNTechnoConsulting" : "Services",
+		"TitlePTechnoConsulting" : "We offer innovative solutions that will revitalize your business in a modern way and with the best technology.",
+		"TitleWebApp" : "Servicios de Aplicaciónes ",
+		"TitleNWebApp" : "Web y Móvil ",
+		"TitlePWebApp" : "We offer innovative solutions that will revitalize your business in a modern way and with the best technology."
+	},
+
+	"BannerIntProcess" :{
+		"TitleScrum" : "Gestión de proyectos Scrum",
+		"TextDScrum" : "Scrum es una metodología de desarrollo ágil utilizada en el desarrollo de Software basada en procesos iterativos e incrementales. Scrum es un marco ágil adaptable, rápido, flexible y eficaz que está diseñado para entregar valor al cliente durante todo el desarrollo del proyecto.",
+		"TitleDevOps" : "¿Qué es DevOps?",
+		"TextDDevOps" : "DevOps es la combinación de filosofías, prácticas y herramientas culturales que aumenta la capacidad de una organización para entregar aplicaciones y servicios a alta velocidad: evolucionando y mejorando productos a un ritmo más rápido que las organizaciones que utilizan el desarrollo de software tradicional y los procesos de gestión de infraestructura. Esta velocidad permite a las organizaciones servir mejor a sus clientes y competir de manera más eficaz en el mercado."
+	},
+
+	"ScrumEvents" :{
+		"Title" : "Eventos de Scrum",
+		"Descrip" : "Son bloques de tiempo para crear regularidad y minimizar la necesidad de reuniones innecesarias e indefinidas en Scrum.",
+		"event1" : "Planificación de Sprint",
+		"event1Paragraph1" : "El plan de sprint es creado por todos los miembros del equipo Scrum en colaboración. En esta ceremonia se toman todas las historias de usuarios priorizadas y se decide cuáles esprintar en función del objetivo del sprint y la capacidad del equipo.",
+		"event1Paragraph2" : "Define qué se puede entregar en el Incremento resultante del Sprint que comienza y cómo se hará el trabajo necesario para entregar el Incremento.",
+		"event2" : "Scrum diario",
+		"event2Paragraph1" : "Es una reunión diaria, de máximo 15 minutos, con todos los miembros del equipo de desarrollo para discutir el avance que se ha hecho hacia el objetivo Sprint y planificar el trabajo para el día siguiente.",
+		"event2Paragraph2" : "Luego, cada miembro respondió a los otros miembros del equipo Estas o preguntas similares: ¿He cumplido el compromiso que hice ayer? ¿A qué compromiso me comprometeré hoy? ¿Veo algún impedimento para lograrlo?",
+		"event3" : "Revisión de Sprint",
+		"event3Paragraph1" : "Se trata de una reunión informal, no de seguimiento. Al final del Sprint, se realiza una revisión del Sprint para inspeccionar el Incremento y adaptar la Lista de Productos.",
+		"event3Paragraph2" : "Durante la revisión de Sprint, el equipo y las partes interesadas colaboran para determinar las siguientes cosas que se podrían hacer para optimizar el valor. Todo el equipo Scrum asiste y las partes interesadas están invitadas.",
+		"event4" : "Sprint retrospectiva",
+		"event4Paragraph1" : "Es una oportunidad para que el equipo de Scrum se inspeccione y cree un plan de mejoras que se abordarán durante el próximo Sprint.",
+		"event4Paragraph2" : "El propósito de la Retrospectiva del Sprint es Inspeccionar cómo fue el último Sprint en términos de personas, relaciones, procesos y herramientas; Identificar y ordenar los elementos más importantes que salieron bien y las posibles mejoras y, Crear un plan para implementar mejoras en la forma en que el Equipo Scrum realiza su trabajo."
+	},
+
+	"ScrumTeam" :{
+		"Title" : "Equipo Scrum",
+		"Descrip" : "Consiste en un Product owner, el equipo de Desarrollo y un Scrum Master. Es autoorganizado y multifuncional. Entregan productos de forma iterativa e incremental",
+		"Team1" : "Propietario del producto",
+		"Team1Descrip" : "Es la persona que conoce y comprende las necesidades de los usuarios, conoce el negocio de la cabeza a los pies y es responsable de transmitir ese conocimiento al equipo de desarrollo (o al equipo de soluciones)",
+		"Team2" : "Equipo de desarrollo",
+		"Team2Descrip" : "Está formado por desarrolladores, que ejecutan el trabajo complejo más allá del código. Realizan actividades de proyecto para crear y entregar una vista previa del producto terminado en cada sprint.",
+		"Team3" : "Scrum Master",
+		"Team3Descrip" : "Es un líder que está al servicio del Scrum Team y de la organización, ayudándoles a entender y vivir la agilidad. Conoce el estado del proyecto, cuida los eventos y que el equipo es multifuncional"
+	},
+
+	"ScrumArtifacts" :{
+		"Title" : "Artefactos en Scrum",
+		"Descrip" : "Representan trabajo o valor de diversas formas que son útiles para brindar transparencia y oportunidades de inspección y adaptación",
+		"Artf1" : "Product Backlog",
+		"Artf1Descrip" : "Es una lista ordenada de todo lo que se sabe que es necesario en el producto. Es la única fuente de requisitos para cualquier cambio que se realice en el producto. El propietario del producto es responsable de la lista de productos, incluida la su contenido, disponibilidad y pedidos. La Lista de Productos evoluciona a medida que lo hacen el producto y el entorno en el que se utilizará. Cambiando constantemente para identificar lo que el producto necesita para ser adecuado, competitivo y útil.",
+		"Artf2" : "Backlog Sprint",
+		"Artf2Descrip" : "Es el conjunto de elementos de la lista de productos seleccionados para el Sprint, más un plan para entregar el incremento del producto y lograr el objetivo del Sprint. Hace visible todo el trabajo que el Equipo de Desarrollo identifica como necesario para lograr el Objetivo del Sprint. Para garantizar la mejora continua, la Lista de tareas pendientes del Sprint incluye al menos una mejora de proceso de alta prioridad identificada en la Retrospectiva inmediatamente anterior.",
+		"Artf3" : "Incremento",
+		"Artf3Descrip" : "Es la suma de todos los elementos de la Lista de producto completados durante el Sprint. Recordemos que Scrum es liviano y fácil de entender, lo que no es tan fácil en mantenerse consciente de su esencia y no dejarse caer en el común error de aplicar una serie de prácticas solo por aplicarlas."
+	},
+
+	"DevOpsItem" :{
+		"Dev_txt" : "Los Desarrolladores centran sus esfuerzos en 'distribuir el código'. Los cambios y mejoras en los sistemas de producción y las fallas consiguientes en la prestación del servicio se consideran parte de esta prisa por hacer llegar el último y mejor código a los consumidores.",
+		"Ops_txt" : "Los grupos de Operaciones, por otro lado, son 'reactivos'. Se centran en la gestión de servicios y la respuesta a incidentes. Los equipos que apoyan las operaciones tienden a utilizar modelos de organización estrechamente alineados con ITSM e ITIL."
+	},
+
+	"HowDevOpsWorks" :{
+		"Title" : "Artefactos en Scrum",
+		"txt1" : "Bajo un modelo de DevOps, los equipos de desarrollo y operaciones ya no están 'aislados'. A veces, estos dos equipos se fusionan en un solo equipo donde los ingenieros trabajan durante todo el ciclo de vida de la aplicación, desde el desarrollo y la prueba hasta la implementación y las operaciones, y desarrollan una gama de habilidades que no se limitan a una sola función.",
+		"txt2" : "En algunos modelos de DevOps, los equipos de control de calidad y seguridad también pueden integrarse más estrechamente con el desarrollo y las operaciones y durante todo el ciclo de vida de la aplicación. Cuando la seguridad es el centro de atención de todos en un equipo de DevOps, esto a veces se denomina DevSecOps."
+	},
+
+	"BenefitsDevOps": {
+		"Title": "Beneficios de DevOps",
+		"Benefits1Title": "Velocidad",
+		"Benefits1Descrip": "Muévase a gran velocidad para que pueda innovar para los clientes más rápido, adaptarse mejor a los mercados cambiantes y ser más eficiente para impulsar los resultados comerciales. El modelo DevOps permite a sus desarrolladores y equipos de operaciones lograr estos resultados",
+		"Benefits2Title": "Entrega rápida",
+		"Benefits2Descrip": "Aumente la frecuencia y el ritmo de los lanzamientos para que pueda innovar y mejorar su producto más rápidamente. La integración y la entrega continuas son prácticas que automatizan el proceso de lanzamiento del software, desde la construcción hasta la implementación",
+		"Benefits3Title": "Fiabilidad",
+		"Benefits3Descrip": "Garantice la calidad de las actualizaciones de las aplicaciones y los cambios en la infraestructura para que pueda entregar de manera confiable a un ritmo más rápido mientras mantiene una experiencia positiva para los usuarios finales",
+		"Benefits4Title": "Escala",
+		"Benefits4Descrip": "Opere y administre su infraestructura y procesos de desarrollo a escala. La automatización y la consistencia lo ayudan a administrar sistemas complejos o cambiantes de manera eficiente y con un riesgo reducido",
+		"Benefits5Title": "Colaboración mejorada",
+		"Benefits5Descrip": "Construya equipos más efectivos bajo un modelo cultural de DevOps, que enfatiza valores como la propiedad y la responsabilidad. Los desarrolladores y los equipos de operaciones colaboran estrechamente, comparten muchas responsabilidades y combinan sus flujos de trabajo",
+		"Benefits6Title": "Seguridad",
+		"Benefits6Descrip": "Muévase rápidamente mientras mantiene el control y preserva el cumplimiento. Puede adoptar un modelo DevOps sin sacrificar la seguridad mediante el uso de políticas de cumplimiento automatizadas, controles detallados y técnicas de administración de la configuración"
+		},
+
+		"PracticesDevOps": {
+			"DevOpsTitle": "Integración continua",
+			"DevOpsDescrip": "La integración continua es una práctica de desarrollo de software donde los desarrolladores combinan sus cambios de código en un repositorio central, después de lo cual se ejecutan compilaciones y pruebas automatizadas. Los objetivos clave de la integración continua son encontrar y corregir errores más rápido, mejorar la calidad del software y reducir el tiempo para las nuevas actualizaciones ",
+			"DevOpsTitle2": "Entrega continua",
+			"DevOpsDescrip2": "La entrega continua es una práctica de desarrollo de software en la que los cambios de código se crean, se prueban y se preparan automáticamente para su lanzamiento a producción. Esto se expande en la integración continua por medio de la implementación de todos los cambios necesarios del código en un entorno de prueba y / o un entorno de producción después la etapa de construcción "
+		},
+
+	"menu" :{
+		"menu_txt1" : "Nosotros",
+		"menu_txt2" : "Clientes",
+		"menu_txt3" : "Servicios",
+		"menu_txt4" : "Procesos",
+		"menu_txt5" : "Casos",
+		"menu_txt6" : "Contacto",
+		"menu_txt7" : "Trabajo",
+		"menu_logo" : "Aqui el logo"
+	},
+	"footer" :{
+		"jobs" : "Empleo",
+		"PrivacyPolicy" : "Politicas de Privacidad"
+	}
+
+
+}
