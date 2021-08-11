@@ -41,7 +41,7 @@ class App extends Component{
                     <Route path="/devops" component={Devops} />
                     <Route path="/jobs" component={Jobs} />
                     <Route path="/scrum" component={Scrum} />           
-                    <Route exact={true} path={"/"} component={Home} />                 
+                    <Route exact={true} path={"/pagedc"} component={Home} />                 
                 </Switch>
 
             </Router>
