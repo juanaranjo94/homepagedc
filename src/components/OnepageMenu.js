@@ -17,7 +17,7 @@ class OnepageMenu extends Component {
                     <header className={`header_area ${classMenu} `} id="header">
                     <nav className="navbar navbar-expand-lg menu_one menu_four">
                         <div className="container">
-                            <NavLink className="navbar-brand sticky_logo" to="/">
+                            <NavLink className="navbar-brand sticky_logo" to="/pagedc">
                                <img className="logoWhite" src={require("../img/logo-dreamcode.png").default} alt=""/>
                                 <img className="logoBlue" src={require("../img/logo-blue.png").default} alt="logo"/>                             
                             </NavLink>
