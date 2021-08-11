@@ -1,6 +1,6 @@
 import React from 'react';
 import SecBanner from '../components/Banner/SecBanner';
-import HowDevOpsWorks from '../components/Process/HowDevOpsWorks';
+
 import JobsTab from '../components/JobsTab';
 
 
@@ -14,7 +14,7 @@ const Jobs = () => {
                 title="title" 
                 titleD="titleD"
             />
-            <HowDevOpsWorks/>
+
 
         </div>
     )

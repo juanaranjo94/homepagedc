@@ -5,7 +5,7 @@ import { translate } from "react-translate";
 class BannerProcess extends Component {
     render(){
 
-        let { t , img_process, Pclass, P2class, P3class, imgPclass} = this.props;
+        let { t , img_process, Pclass, P2class, P3class} = this.props;
         
 
         return(

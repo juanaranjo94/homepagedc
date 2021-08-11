@@ -7,7 +7,7 @@ import Sticky from 'react-stickynode';
 
 class OnepageMenu extends Component {
     render() {
-        let { t, onChangeLanguage, value, botonLang, classMenu} = this.props;
+        let { t, onChangeLanguage, value, classMenu} = this.props;
      
 
             return (
