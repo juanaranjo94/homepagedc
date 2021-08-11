@@ -214,12 +214,10 @@
 	},
 
 	"menu" :{
-		"menu_txt1" : "About Us",
+		"menu_txt1" : "About",
 		"menu_txt2" : "Clients",
-		"menu_txt3" : "Services",
-		"menu_txt4" : "Our process",
-		"menu_txt5" : "Our Cases",
-		"menu_txt6" : "Contact Us",
+		"menu_txt4" : "Scrum",
+		"menu_txt5" : "Devops",
 		"menu_txt7" : "Jobs",
 		"menu_logo" : "Here the logo"
 	},

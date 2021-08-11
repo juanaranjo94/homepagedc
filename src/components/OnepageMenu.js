@@ -38,19 +38,16 @@ class OnepageMenu extends Component {
                             <div className="collapse navbar-collapse" id="OnePageManuContent">
                                 <ul className="navbar-nav menu ml-auto w_menu">
                                     <li className="nav-item">
-                                        <Link className="nav-link" activeClass="active" to="about" spy={true} smooth={true} offset={0} duration={1000}>{t(this.props.menu_txt1)}</Link>
+                                        <Link className="nav-link" activeClass="active" to="/about" spy={true} smooth={true} offset={0} duration={1000}>{t(this.props.menu_txt1)}</Link>
                                     </li>
                                     <li className="nav-item">
-                                        <Link className="nav-link" activeClass="active" to="clients" spy={true} smooth={true} offset={-90} duration={1000}>{t(this.props.menu_txt2)}</Link>
+                                        <Link className="nav-link" activeClass="active" to="/clients" spy={true} smooth={true} offset={-90} duration={1000}>{t(this.props.menu_txt2)}</Link>
                                     </li>
                                     <li className="nav-item">
-                                        <Link className="nav-link" activeClass="active" to="servicios" spy={true} smooth={true} offset={0} duration={1000}>{t(this.props.menu_txt3)}</Link>
+                                        <Link className="nav-link" activeClass="active" to="/scrum" spy={true} smooth={true} offset={0} duration={1000}>{t(this.props.menu_txt4)}</Link>
                                     </li>
                                     <li className="nav-item">
-                                        <Link className="nav-link" activeClass="active" to="process" spy={true} smooth={true} offset={0} duration={1000}>{t(this.props.menu_txt4)}</Link>
-                                    </li>
-                                    <li className="nav-item">
-                                        <Link className="nav-link" activeClass="active" to="cases" spy={true} smooth={true} offset={-90} duration={1000}>{t(this.props.menu_txt5)}</Link>
+                                        <Link className="nav-link" activeClass="active" to="/devops" spy={true} smooth={true} offset={-90} duration={1000}>{t(this.props.menu_txt5)}</Link>
                                     </li>
                                     <li className="nav-item">
                                         <NavLink className="nav-link" activeClass="active" to="/jobs" spy={true} smooth={true} offset={-90} duration={1000}>{t(this.props.menu_txt7)}</NavLink>

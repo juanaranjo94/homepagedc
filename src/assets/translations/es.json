@@ -216,10 +216,8 @@
 	"menu" :{
 		"menu_txt1" : "Nosotros",
 		"menu_txt2" : "Clientes",
-		"menu_txt3" : "Servicios",
-		"menu_txt4" : "Procesos",
-		"menu_txt5" : "Casos",
-		"menu_txt6" : "Contacto",
+		"menu_txt4" : "Scrum",
+		"menu_txt5" : "Devops",
 		"menu_txt7" : "Trabajo",
 		"menu_logo" : "Aqui el logo"
 	},
