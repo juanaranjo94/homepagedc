@@ -16,7 +16,8 @@ class AboutUs extends Component{
                         </div>
                         <div className="col-lg-6">
                               <div className="seo_title">
-                                <SeoTitle Title="Titulo" Tclass='text-left'/>                               
+                                <SeoTitle Title="Titulo" Tclass='text-left'/> 
+                                <h2>Hola probando los cambios</h2>                              
                                 <p >{t(this.props.about_home_d)}</p>
                                 <a href="/About" className="learn_btn">{t(this.props.read_more)}<i className="ti-arrow-right"></i></a>
                                
