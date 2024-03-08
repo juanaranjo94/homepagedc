@@ -43,15 +43,6 @@ class OnepageMenu extends Component {
                                     <li className="nav-item">
                                         <Link className="nav-link" activeClass="active" to="/clients" spy={true} smooth={true} offset={-90} duration={1000}>{t(this.props.menu_txt2)}</Link>
                                     </li>
-                                    <li className="nav-item">
-                                        <Link className="nav-link" activeClass="active" to="/scrum" spy={true} smooth={true} offset={0} duration={1000}>{t(this.props.menu_txt4)}</Link>
-                                    </li>
-                                    <li className="nav-item">
-                                        <Link className="nav-link" activeClass="active" to="/devops" spy={true} smooth={true} offset={-90} duration={1000}>{t(this.props.menu_txt5)}</Link>
-                                    </li>
-                                    <li className="nav-item">
-                                        <NavLink className="nav-link" activeClass="active" to="/jobs" spy={true} smooth={true} offset={-90} duration={1000}>{t(this.props.menu_txt7)}</NavLink>
-                                    </li>
                                 </ul>
                                 <a className="btn_get btn_hover btn_get_radious menu_custfive" href="/#contact">{t(this.props.menu_txt6)}</a> 
                                  <ul className="navbar-nav menu w_menu lang">                                                                 
