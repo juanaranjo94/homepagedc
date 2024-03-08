@@ -36,15 +36,7 @@ class OnepageMenu extends Component {
                             </button>
 
                             <div className="collapse navbar-collapse" id="OnePageManuContent">
-                                <ul className="navbar-nav menu ml-auto w_menu">
-                                    <li className="nav-item">
-                                        <Link className="nav-link" activeClass="active" to="/about" spy={true} smooth={true} offset={0} duration={1000}>{t(this.props.menu_txt1)}</Link>
-                                    </li>
-                                    <li className="nav-item">
-                                        <Link className="nav-link" activeClass="active" to="/clients" spy={true} smooth={true} offset={-90} duration={1000}>{t(this.props.menu_txt2)}</Link>
-                                    </li>
-                                </ul>
-                                <a className="btn_get btn_hover btn_get_radious menu_custfive" href="/#contact">{t(this.props.menu_txt6)}</a> 
+
                                  <ul className="navbar-nav menu w_menu lang">                                                                 
                                     <li className="dropdown submenu nav-item">
                                         <a className="nav-link">

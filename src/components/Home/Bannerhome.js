@@ -12,7 +12,7 @@ class Bannerhome extends Component{
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-lg-3 col-md-4">
-                        <img src={require("../img/home/action_img.png").default} alt=""/>
+                        <img src={require("../../img/home/action_img.png").default} alt=""/>
                     </div>
                     <div className="col-lg-9 col-md-8">
                         <div className="erp_content">

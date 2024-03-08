@@ -1,7 +1,7 @@
 import React from 'react';
-import SecBanner from '../components/Banner/SecBanner';
+import SecBanner from '../components/Job/SecBanner';
 
-import JobsTab from '../components/JobsTab';
+import JobsTab from '../components/Job/JobsTab';
 
 
 const Jobs = () => {

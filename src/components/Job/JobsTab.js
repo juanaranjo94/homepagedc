@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import ServTitle from '../components/Home/ServTitle';
-import JobsTabAreas from '../components/JobsTabAreas';
-import JobsTabItems from '../components/JobsTabitems';
+import ServTitle from '../../components/Home/ServTitle';
+import JobsTabAreas from '../../components/Job/JobsTabAreas';
+import JobsTabItems from '../../components/Job/JobsTabitems';
 import { translate } from "react-translate";
 
 class JobsTab extends Component {

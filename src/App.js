@@ -6,11 +6,7 @@ import { TranslatorProvider } from "react-translate";
 
 /* ---- Pages ----*/
 import Home from "./Pages/Home";
-import About from "./Pages/About"
-import Devops from "./Pages/Devops";
 import Jobs from "./Pages/Jobs";
-import Scrum from "./Pages/Scrum";
-import Clients from "./Pages/Clients";
 import OnepageMenu from './components/OnepageMenu';
 
 
@@ -29,18 +25,11 @@ class App extends Component{
 	   return (
 	   <TranslatorProvider translations={require('./assets/translations/'+lang+'.json')}>	
             <Router>   
-                <OnepageMenu 
-                    menu_txt1= "menu_txt1" menu_txt2= "menu_txt2" menu_txt3= "menu_txt3" 
-                    menu_txt4= "menu_txt4" menu_txt5= "menu_txt5" menu_txt6= "menu_txt6" 
-                    menu_logo= "menu_logo" menu_txt7= "menu_txt7" value={this.state.value} 
+                <OnepageMenu  menu_logo= "menu_logo" value={this.state.value} 
                     onChangeLanguage={this.languageChange} classMenu="menu_white1"
                     /> 
-                <Switch>                       
-                    <Route path="/clients" component={Clients} /> 
-                    <Route path="/about" component={About} />     
-                    <Route path="/devops" component={Devops} />
-                    <Route path="/jobs" component={Jobs} />
-                    <Route path="/scrum" component={Scrum} />           
+                <Switch>             
+                    <Route path="/jobs" component={Jobs} />            
                     <Route exact={true} path={"/pagedc"} component={Home} />                 
                 </Switch>
 

@@ -5,10 +5,9 @@ import React from 'react';
 
 import AboutUs from '../components/Home/AboutUs';
 import Services from '../components/Home/Services';
-import OurClients from '../components/OurClients';
-import OurProcess from "../components/OurProcess";
-
-import Bannerhome from '../components/Bannerhome';
+import OurClients from '../components/Home/OurClients';
+import OurProcess from "../components/Home/OurProcess";
+import Bannerhome from '../components/Home/Bannerhome';
 
 
 

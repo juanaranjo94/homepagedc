@@ -62,7 +62,7 @@ class OurProcess extends Component {
                                         <p>{t(this.props.process_d)}</p>
                                         <a href="/scrum" className="learn_btn"><strong>{t(this.props.read_more)}</strong><i className="ti-arrow-right"></i></a>
                                     </div>
-                                    <img className="paddingg" src={require("../img/process/img-scrum.png").default} alt=""/>
+                                    <img className="paddingg" src={require("../../img/home/img-scrum.png").default} alt=""/>
                                 </div>
                             </a>
                         </div>
@@ -71,7 +71,6 @@ class OurProcess extends Component {
                         <div className="our_process_feedback process_two">                           
                             <a className="w-100" href="/devops">
                                 <div className="clients_feedback_item">
-                                    <img className="devops_banner_img s_shap" src={require ("../img/about/shap.png").default} alt=""/>
                                     <div className="s_round one"></div>
                                     <div className="s_round two"></div>
 
@@ -80,7 +79,7 @@ class OurProcess extends Component {
                                         <p>{t(this.props.process_d)}</p>
                                         <a href="/devops" className="learn_btn"><strong>{t(this.props.read_more)}</strong><i className="ti-arrow-right"></i></a>
                                     </div>                                  
-                                    <img className="paddingg" src={require("../img/process/img-devops.png").default} alt=""/>                                  
+                                    <img className="paddingg" src={require("../../img/home/img-devops.png").default} alt=""/>                                  
                                 </div>
                             </a>
                         </div>

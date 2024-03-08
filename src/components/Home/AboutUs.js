@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import { translate } from "react-translate";
-import SeoTitle from '../Title/SeoTitle'
+
 
 class AboutUs extends Component{
     render(){
@@ -16,8 +16,8 @@ class AboutUs extends Component{
                         </div>
                         <div className="col-lg-6">
                               <div className="seo_title">
-                                <SeoTitle Title="Titulo" Tclass='text-left'/> 
-                                <h2>Hola probando los cambios</h2>                              
+                                <h1>{t(this.props.about_home_title)}</h1> 
+                                                              
                                 <p >{t(this.props.about_home_d)}</p>
                                 <a href="/About" className="learn_btn">{t(this.props.read_more)}<i className="ti-arrow-right"></i></a>
                                

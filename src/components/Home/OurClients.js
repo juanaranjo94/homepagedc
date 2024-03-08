@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import SeoTitle from '../components/Title/SeoTitle';
+import SeoTitle from '../Title/SeoTitle';
 import { translate } from "react-translate";
 
 class OurClients extends Component{
@@ -14,23 +14,23 @@ class OurClients extends Component{
                         <div className="col-lg-7">
                             <div className="row our_clients_logo">
                                 <div className="col-6 our_clients_item">
-                                    <a href="/Clients" className="intregration_icon"><img src={require('../img/home/logo-target.png').default} alt=""/></a>
+                                    <a href="/Clients" className="intregration_icon"><img src={require('../../img/home/logo-target.png').default} alt=""/></a>
                                 </div>                               
                                 <div className="col-6 our_clients_item">
-                                    <a href="/Clients" className="intregration_icon"><img src={require('../img/home/logo-falabella.png').default} alt=""/></a>
+                                    <a href="/Clients" className="intregration_icon"><img src={require('../../img/home/logo-falabella.png').default} alt=""/></a>
                                     
                                 </div>
                                 <div className="col-6 our_clients_item">
-                                    <a href="/Clients" className="intregration_icon"><img src={require('../img/home/logo-miraclon.png').default} alt=""/></a>
+                                    <a href="/Clients" className="intregration_icon"><img src={require('../../img/home/logo-miraclon.png').default} alt=""/></a>
                                 </div>
                                 <div className="col-6 our_clients_item">
-                                    <a href="/Clients" className="intregration_icon"><img src={require('../img/home/logo-bolivar.png').default} alt=""/></a>
+                                    <a href="/Clients" className="intregration_icon"><img src={require('../../img/home/logo-bolivar.png').default} alt=""/></a>
                                 </div>
                                 <div className="col-6 our_clients_item">
-                                    <a href="/Clients" className="intregration_icon"><img src={require('../img/home/logo-logixboard.png').default} alt=""/></a>
+                                    <a href="/Clients" className="intregration_icon"><img src={require('../../img/home/logo-logixboard.png').default} alt=""/></a>
                                 </div>
                                 <div className="col-6 our_clients_item">
-                                    <a href="/Clients" className="intregration_icon"><img src={require('../img/home/logo-global.png').default} alt=""/></a>
+                                    <a href="/Clients" className="intregration_icon"><img src={require('../../img/home/logo-global.png').default} alt=""/></a>
                                 </div>
                             </div>
                         </div>
