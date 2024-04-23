@@ -2,7 +2,7 @@
 
 https://juanaranjo94.github.io/pagedc/
 
-Solo tiene Home y Jobs
+Portafolio
 
 # Getting Started with Create React App
 
