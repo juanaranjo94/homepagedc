@@ -1,12 +1,12 @@
 {
   "name": "my-portfolio-vite",
-  "homepage": "http://juanaranjo94.github.io/portafolio/",
+  "homepage": "http://juanaranjo94.github.io/myportafolio/",
   "private": true,
   "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "preview": "vite preview"
   },
